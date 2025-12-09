@@ -41,12 +41,15 @@ Each contribution may be recorded as a new version of the article (v1.01 → v1.
 ## 3. How to Contribute via Google Docs
 
 This article is designed to be shared, edited, and collaboratively developed through Google Docs.
+
 ✔ Adding Comments
 
 Readers may initiate discussion on any paragraph, concept, or proposition using the Google Docs comment system.
+
 ✔ Editing in Suggesting Mode
 
 Users can propose edits in Suggesting Mode; suggestions may be accepted or rejected by the document manager.
+
 ✔ Adding APA References
 
 When adding new sources:
@@ -72,6 +75,7 @@ Through this process, the article grows into a collective academic work.
 ## 4. How to Contribute via GitHub
 
 GitHub offers a structured, transparent, version‑controlled environment for collaborative academic development.
+
 ✔ 4.1 Forking the Repository
 
 Contributors may fork the project to:
@@ -85,6 +89,7 @@ Contributors may fork the project to:
     Propose alternative frameworks
 
 After making changes, contributors may submit a Pull Request (PR).
+
 ✔ 4.2 Creating Issues for Discussion
 
 GitHub Issues can be used to:
@@ -100,6 +105,7 @@ GitHub Issues can be used to:
     Request additional references
 
 Issues preserve the document’s academic dialogue history.
+
 ✔ 4.3 Submitting Pull Requests (PRs)
 
 A PR should include:
@@ -113,6 +119,7 @@ A PR should include:
     Additional files if necessary
 
 Editors may review, comment, request revisions, or merge the PR.
+
 ✔ 4.4 Versioning (Semantic Academic Versioning)
 
     Patch (v1.01 → v1.02): Minor edits, typos, references
@@ -144,6 +151,7 @@ Branches may be created for:
     Case studies
 
 Parallel branches can be merged when mature.
+
 ✔ 4.7 Collaborative Review and Commentary
 
 GitHub Review Tools support:
