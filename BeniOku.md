@@ -250,7 +250,7 @@ Nasıl olmalı?
 
 12. Katkıya Açıklık
 
-Bu metin, v1.00 temel sürümüdür.
+Bu metin, v1.01 temel sürümüdür.
 Gelecek versiyonlar, katılımcıların eklemeleri ve eleştirileriyle şekillenecektir.
 
 Katkıda bulunanlar:
