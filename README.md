@@ -1,34 +1,36 @@
 # Autonomous Urban Systems – A Theoretical and Architectural Framework
 
 ## 1. Rationale
+
 This repository investigates the concept of autonomy at individual, collective, urban, and technological scales. It asks:
 
-**Is an autonomous city possible?**
+> **Is an autonomous city possible?**
 
 Using philosophical foundations, architectural reasoning, and socio‑technological analysis, it proposes a theoretical model for autonomous urban systems.
 
 This work aims to:
+
 - Explain what autonomy is.
-- Examine why autonomy matters today.
-- Explore how autonomy could be achieved.
+- Examine why autonomy matters in modern society.
+- Explore how autonomy could be achieved in practice.
 - Identify threats to autonomy (media, technology, consumption, autocracy).
 - Define principles for autonomous spatial, social, and infrastructural design.
 
 ---
 
 ## 2. Repository Structure
-The content is divided into modular folders for easy branching:
 
-- **01_Theory** → Philosophy, autonomy, governance, threats  
-- **02_Social_Autonomy** → Collective behavior, institutions, cultural mechanisms  
-- **03_Urban_Autonomy** → Spatial systems, architecture, ecology  
-- **04_Technical_Protocols** → Digital governance, decentralization, IoT  
-- **05_Design_Proposals** → Applied models for autonomous cities
+- **01_Theory** – Philosophy, autonomy, governance, threats  
+- **02_Social_Autonomy** – Collective behavior, institutions, cultural mechanisms  
+- **03_Urban_Autonomy** – Spatial systems, architecture, ecology  
+- **04_Technical_Protocols** – Digital governance, decentralization, IoT  
+- **05_Design_Proposals** – Applied models for autonomous cities
 
 ---
 
 ## 3. Core Thesis
-Autonomy is not merely technical.  
+
+Autonomy is not merely a technical problem.  
 It is **behavioral, cultural, spatial, and systemic**.
 
 An autonomous city is possible, but only if cultural autonomy is achieved alongside technological and spatial independence.
@@ -36,11 +38,15 @@ An autonomous city is possible, but only if cultural autonomy is achieved alongs
 ---
 
 ## 4. How to Contribute
-- Create branches for philosophical expansions, city models, or technical protocols.  
-- Add proposals under `/05_Design_Proposals`.  
-- Submit pull requests to refine conceptual models.
+
+- Use branches to explore philosophical expansions, city models, or technical protocols.
+- Add new proposals under `/05_Design_Proposals`.
+- Open issues to discuss conceptual gaps or new directions.
+- Submit pull requests to refine and extend the framework.
 
 ---
 
 ## 5. License
-MIT License – open for academic and speculative development.
+
+MIT License – © 2025 Berk Ozerk.  
+This repository is open for academic, architectural, and speculative development.
