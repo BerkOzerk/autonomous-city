@@ -1,5 +1,6 @@
 Purpose of the Article and Contribution Model
-1. Purpose of the Article
+
+## 1. Purpose of the Article
 
 This article has been prepared to examine the concept of the autonomous city within a scientific framework, in relation to the ecological, social, cultural, and governance vulnerabilities faced by modern urban environments. The objectives of this study are:
 
@@ -16,7 +17,8 @@ This article has been prepared to examine the concept of the autonomous city wit
     To provide a scientific framework that is participatory and capable of evolving over time.
 
 This work does not aim to present a single, fixed model; rather, it represents an open‑ended research structure intended to develop through academic and practical contributions.
-2. Living and Open Contribution Model
+
+## 2. Living and Open Contribution Model
 
 This article is designed as a living document. Over time, it is expected to evolve with:
 
@@ -35,7 +37,8 @@ This article is designed as a living document. Over time, it is expected to evol
     Critiques and commentary
 
 Each contribution may be recorded as a new version of the article (v1.01 → v1.02 → v1.1 …).
-3. How to Contribute via Google Docs
+
+## 3. How to Contribute via Google Docs
 
 This article is designed to be shared, edited, and collaboratively developed through Google Docs.
 ✔ Adding Comments
@@ -65,7 +68,8 @@ Contributors may propose:
     Theoretical discussions
 
 Through this process, the article grows into a collective academic work.
-4. How to Contribute via GitHub
+
+## 4. How to Contribute via GitHub
 
 GitHub offers a structured, transparent, version‑controlled environment for collaborative academic development.
 ✔ 4.1 Forking the Repository
