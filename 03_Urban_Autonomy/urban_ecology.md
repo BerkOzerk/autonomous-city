@@ -1,8 +1,22 @@
 # Urban Ecology and Autonomy
 
-A resilient autonomous city must:
-- integrate natural cycles,
-- minimize external dependencies,
-- localize production and waste processes.
+An autonomous city is an ecological system:
 
-Ecology is not an overlay but a structural condition of autonomy.
+- humans,
+- non-human species,
+- infrastructures,
+- resources,
+- information flows
+
+interact in continuous cycles.
+
+---
+
+## Ecological Requirements
+
+- reduced dependence on distant resources,
+- protection and integration of green and blue networks,
+- climate-responsive design,
+- long-term soil and water stewardship.
+
+Urban ecology is not an “add-on” but the **substrate** of autonomy.
